@@ -14,7 +14,7 @@
 
 `clearText()`
 
-n3:  Så, inden vi begynder, hvordan kunne *du* tænke dig at læse?
+n3:  Nå, inden vi begynder, hvordan kunne *du* tænke dig at læse?
 
 `publish("show_options_bottom")`
 
