@@ -104,7 +104,7 @@ bb({eyes:"look"});
 
 `hong({mouth:"smile", eyes:"surprise"});`
 
-h: Heh, det er cute, det--
+h: Heh, det er da ret nuttet, jeg--
 
 ```
 hong({mouth:"shock", eyes:"shock"});
